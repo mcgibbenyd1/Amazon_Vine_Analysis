@@ -15,11 +15,19 @@ In this project, you’ll have access to approximately 50 datasets. Each one con
 - What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?
 
 <p align="center">  
-<img src="https://github.com/mcgibbenyd1/Amazon_Vine_Analysis/blob/main/Paid_Vine_Reviews.png" width="55%"/>
+<img src="https://github.com/mcgibbenyd1/Amazon_Vine_Analysis/blob/main/Paid_Vine_Reviews.png" width="65%"/>
 </p>
-Dataframe of the total number of reviews with at least 20 votes with reviews made from the paid Vine platform. Total Vine reviews, 5-Star Reviews and how many of those total reviews were 5 stars.
+Dataframe of the total number of reviews with at least 20 votes with reviews made from the Paid Vine platform. Total Vine reviews, 5-Star Reviews and how many of those total reviews were 5 stars.
 
 <p align="center">  
-<img src="https://github.com/mcgibbenyd1/Amazon_Vine_Analysis/blob/main/Unpaid_Vine_Reviews.png" width="55%"/>
+<img src="https://github.com/mcgibbenyd1/Amazon_Vine_Analysis/blob/main/Unpaid_Vine_Reviews.png" width="65%"/>
 </p>
-Dataframe of the total number of reviews with at least 20 votes with reviews made from a unpaying non-Vine account. Total Vine reviews, 5-Star Reviews and how many of those total reviews were 5 stars.
+Dataframe of the total number of reviews from non-Vine accounts. Total Vine reviews, 5-Star Reviews and how many of those total reviews were 5 stars.
+
+## Summary
+
+In your summary, state if there is any positivity bias for reviews in the Vine program. Use the results of your analysis to support your statement. Then, provide one additional analysis that you could do with the dataset to support your statement.
+
+Based strictly on the percentage basis it can be said that there was a more favored positive review from the Paid Vine program with 51% providing 5 star reviews to the 38% on the non-Vine reviews giving 5 stars. 
+
+One of the ways that could be helpful to invistigate the difference would be to further stratify by product category and see if there were specific subclasses that produced more negative reviews. 
