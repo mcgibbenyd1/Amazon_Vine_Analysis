@@ -13,3 +13,13 @@ In this project, you’ll have access to approximately 50 datasets. Each one con
 - How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?
 
 - What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?
+
+<p align="center">  
+<img src="https://github.com/mcgibbenyd1/Amazon_Vine_Analysis/blob/main/Paid_Vine_Reviews.png" width="55%"/>
+</p>
+Dataframe of the total number of reviews with at least 20 votes with reviews made from the paid Vine platform. Total Vine reviews, 5-Star Reviews and how many of those total reviews were 5 stars.
+
+<p align="center">  
+<img src="https://github.com/mcgibbenyd1/Amazon_Vine_Analysis/blob/main/Unpaid_Vine_Reviews.png" width="55%"/>
+</p>
+Dataframe of the total number of reviews with at least 20 votes with reviews made from a unpaying non-Vine account. Total Vine reviews, 5-Star Reviews and how many of those total reviews were 5 stars.
